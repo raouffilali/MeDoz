@@ -5,7 +5,6 @@ import 'package:flutter_signin_button/flutter_signin_button.dart';
 class AboutUs extends StatelessWidget {
   final String versionCounter = 'Version : 1.0.0';
   final List<Color> colour = [
-    Colors.orange,
     Color(0xff2F6E60),
     Color(0xff4C9296),
     Color(0xff5a989c),
